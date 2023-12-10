@@ -14,7 +14,7 @@
 #include "smallFont.h"
 #include "middleFont.h"
 
-uint8_t broadcastAddress[] = {0x34, 0x85, 0x18, 0x8B, 0x64, 0x5C};
+
 
 // Structure example to send data
 // Must match the receiver structure
